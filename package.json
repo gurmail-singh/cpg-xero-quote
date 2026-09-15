@@ -1,0 +1,13 @@
+{
+  "name": "cpg-xero-quote",
+  "private": true,
+  "scripts": {
+    "build": "next build"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "xero-node": "^5.0.0"
+  }
+}
